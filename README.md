@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on  Aprender  desarollo web
-- 🌱 I’m currently learning HTml5, css3 y jaca script
+- 🌱 I’m currently learning HTml5, css3 y java script
 - 👯 I’m looking to collaborat  Proyectos de desarollo web
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
